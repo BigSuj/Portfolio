@@ -28,7 +28,7 @@ a:hover {
 header {
     background-color: #ffffff;
     padding: 20px;
-    border-bottom: 2px solid #1a73e8; /* Add a colored border to the header */
+    border-bottom: 2px solid #4951e1; /* Add a colored border to the header */
 }
 
 nav ul li a:hover {
@@ -52,7 +52,7 @@ nav ul li {
 #hero {
     text-align: center;
     margin-bottom: 40px;
-    background-image: linear-gradient(to right, #a0d2eb, #e5eaf5, #8458B3);
+    background-image: linear-gradient(to right, #a0d2eb, #8458B3);
     color: #fff;
     padding: 60px;
 }
